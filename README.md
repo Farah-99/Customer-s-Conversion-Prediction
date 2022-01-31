@@ -1,10 +1,8 @@
-# Customer-s-Conversion-Prediction
+# <font color='blue'>Customer's Conversion Prediction: </font> 
 
 Given various Information related to a customer’s behavior in online shopping websites,
 I created a model that can predict whether that customer will generate revenue for the website's company or not. 
-=> Binary Classification ; I Got the best results by using XGBoost with 96% accuracy; 
-
-# <font color='blue'>Customer's Conversion Prediction: </font> 
+   => Binary Classification Problem
 I Got the best results by using XGBoost with 96% accuracy; top 1 in Kaggle
 ---
  

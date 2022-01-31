@@ -3,7 +3,7 @@
 Given various Information related to a customer’s behavior in online shopping websites,
 I created a model that can predict whether that customer will generate revenue for the website's company or not. 
    => Binary Classification Problem
-I Got the best results by using XGBoost with 96% accuracy; top 1 in Kaggle
+   <font color='red'> I Got the best results by using XGBoost with 96% accuracy</font> 
 ---
  
 * **Part 1 - Data Preprocessing**
